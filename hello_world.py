@@ -1,14 +1,6 @@
 
-
-
-
-
-
-
 def greet():
     print("Hello world this is segun")
-
-
 
 
 
