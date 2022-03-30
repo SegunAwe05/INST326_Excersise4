@@ -10,3 +10,4 @@ def goodbye():
 if __name__ == "__main__":
     greet()
     goodbye()
+    print("test 2")
